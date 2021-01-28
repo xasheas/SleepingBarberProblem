@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1590773716 source:c:\users\ataak\onedrive\masaüstü\codeblocks\sleepingbarber\main.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+
